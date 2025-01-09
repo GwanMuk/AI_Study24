@@ -83,3 +83,4 @@ k-means, 클러스터 중심, 엘보우 방법 학습
 01/09
 
 인공 신경망에서 텐서플로 밀집층(dense), 원-핫 인코딩, 케라스모델등을 학습
+RELU함수, Tencerflow, Dense, keras, Sequential,summary, 입력층, 은닉층, 출력층
