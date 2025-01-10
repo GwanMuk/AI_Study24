@@ -1,6 +1,10 @@
 # AI_Study24
 python을 이용한 머신러닝, 딥러닝 학습용
 
+참고 도서
+https://wikidocs.net/book/2155
+![image](https://github.com/user-attachments/assets/1681ca1e-7b96-4ec0-86d2-55c28df46308)
+
 시나리오
 
 MBC 상점에서 앱 마켓을 운영하는데 AI를 활용하는 기법을 학습해보자
