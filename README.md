@@ -2,8 +2,11 @@
 python을 이용한 머신러닝, 딥러닝 학습용
 
 참고 도서
-https://wikidocs.net/book/2155
+
 ![image](https://github.com/user-attachments/assets/1681ca1e-7b96-4ec0-86d2-55c28df46308)
+
+https://wikidocs.net/book/2155
+
 
 시나리오
 
@@ -88,3 +91,7 @@ k-means, 클러스터 중심, 엘보우 방법 학습
 
 인공 신경망에서 텐서플로 밀집층(dense), 원-핫 인코딩, 케라스모델등을 학습
 RELU함수, Tencerflow, Dense, keras, Sequential,summary, 입력층, 은닉층, 출력층
+
+01/10
+심층 신경망에서 학습률 최적화 시기는 방법 학슴
+인공 신경망에서 쓰이는 기타도구(콜백, 드롭아웃, 모델 체크 포인트)를 학습
