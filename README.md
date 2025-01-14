@@ -99,3 +99,6 @@ RELU함수, Tencerflow, Dense, keras, Sequential,summary, 입력층, 은닉층, 
 01/13
 합성곱 신경망 학습함
 합성곱 시각화 학습함
+
+01/14
+순차 데이터와 순환 신결망에 대한 이론및 실습 학습함
